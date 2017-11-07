@@ -11,3 +11,5 @@ Install with pip
 
 	pip install featuretools
 
+## Limitation
+1. *NOT* compatible with Python 3.X
