@@ -10,3 +10,5 @@ From root
 cd docs
 python source/upload.py --root
 ```
+### Limitation
+1. not compatible with Python 3.X
