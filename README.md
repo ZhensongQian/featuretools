@@ -16,4 +16,4 @@ Install with pip
 2. seems like only applied to *relational* data
 
 ## Research Paper
-*Deep feature synthesis: Towards automating data science endeavors*
+*Deep feature synthesis: Towards automating data science endeavors, DSAA2015*
