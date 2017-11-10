@@ -13,7 +13,7 @@ Install with pip
 
 ## Limitation
 1. *NOT* compatible with Python 3.X
-2. seems like only applied to *relational* data
+2. seems like only applied to *relational* data, or user could create the entity-relation 
 
 ## Research Paper
 *Deep feature synthesis: Towards automating data science endeavors, DSAA2015*
